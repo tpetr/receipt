@@ -1,0 +1,3 @@
+python-escpos[usb]
+requests
+slack_bolt
